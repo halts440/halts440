@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Humayun Afzal
-- 👀 I’m interested in Software Developement, Web Development and Data Science
-- 🌱 I’m currently learning more about Web Developemnt
+- 👀 I’m interested in Web Developement, Data Science and App Developement
 
 Profile Picture: Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 <!---
