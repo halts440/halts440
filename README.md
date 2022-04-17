@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @halts440
+- 👋 Hi, I’m Humayun Afzal
 - 👀 I’m interested in Software Developement, Web Development and Data Science
 - 🌱 I’m currently learning more about Web Developemnt
 
